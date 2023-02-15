@@ -1,0 +1,12 @@
+/* #binding{
+    background-color: aquamarine;
+} */
+
+#binding{
+    background-color: lightpink;
+}
+
+.name{
+    font-size: larger;    
+    font-weight: 500;
+}

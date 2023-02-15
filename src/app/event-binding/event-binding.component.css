@@ -1,0 +1,14 @@
+.button{
+    background-color:lightskyblue;
+    width: 100px;
+    height: 50px;
+}
+
+#button1{
+    background-color: aquamarine;
+    width: 150px;
+    height: 50px;
+}
+#count{
+    font-size: larger;
+}
